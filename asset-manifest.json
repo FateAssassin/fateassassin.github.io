@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c0e5dbc1.css",
+    "main.js": "/static/js/main.306e6710.js",
+    "static/js/787.a2cb61a6.chunk.js": "/static/js/787.a2cb61a6.chunk.js",
+    "static/media/officejob.jpg": "/static/media/officejob.78ebc5ee73dc77138fd4.jpg",
+    "static/media/muaz.jpeg": "/static/media/muaz.3789f98b687dce24689a.jpeg",
+    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.449ad8adf6ae0424b7ed.woff",
+    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.dea24bf5a7646d8b84e7.woff2",
+    "index.html": "/index.html",
+    "main.c0e5dbc1.css.map": "/static/css/main.c0e5dbc1.css.map",
+    "main.306e6710.js.map": "/static/js/main.306e6710.js.map",
+    "787.a2cb61a6.chunk.js.map": "/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0e5dbc1.css",
+    "static/js/main.306e6710.js"
+  ]
+}
